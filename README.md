@@ -1,11 +1,11 @@
 # 8-Ball
-A simple 8 Ball program in Python
+## A simple 8 Ball program in Python
 
-Variables:
+### Variables:
 	- pred - List, empty on initialization.
 	- user_dir - Boolean, False on initialization.
 
-Functions:
+### Functions:
 	- import_default()
 		imports the default list of predictions.
 	- import_user()
